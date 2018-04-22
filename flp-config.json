@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.sap.offlinetest.NW_Offline.NW_Offline",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#NW_Offline-Display",
+        "navigationComponentName": "com.sap.offlinetest.NW_Offline",
+        "intentSemanticObject": "NW_Offline",
+        "intentAction": "Display",
+        "html5ApplicationName": "nwoffline",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "10f94bf9-e5e3-485f-8393-0f554da85cfe-1516005493031"
+        ],
+        "contentPackages": [
+            "963e09a2-29c5-4786-bf93-101a499f7f27"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "offline",
+        "subtitle": "test offline",
+        "searchKeywords": "offline,test offline",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
